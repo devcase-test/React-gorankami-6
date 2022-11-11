@@ -1,1 +1,1 @@
-# React-gorankami-6
+Dummy template
